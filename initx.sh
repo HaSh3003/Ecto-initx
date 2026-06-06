@@ -1,4 +1,4 @@
-#!/bin/bash
+# SPDX-License-Identifier: MIT
 
 CYAN='\033[0;36m'
 GREEN='\033[1;32m'

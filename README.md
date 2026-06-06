@@ -120,10 +120,17 @@ Normal exit — same message as Ctrl+C.
 ```
 initx/
 ├── initx.sh    ← the script — that's all you need
+├── LICENSE     ← MIT — use, modify, and share freely
 └── README.md   ← you're reading it
 ```
 
 No dependencies, no `npm install` for the script itself. Just Bash.
+
+---
+
+## License
+
+MIT © [Hesham Yasser](LICENSE) — open source. Use it, change it, share it.
 
 ---
 
